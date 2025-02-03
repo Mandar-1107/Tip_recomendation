@@ -1,6 +1,5 @@
 streamlit
 numpy
-python
 gdown
 torch
 transformers
